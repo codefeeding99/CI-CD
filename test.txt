@@ -3,6 +3,6 @@ This is a test document.
 
 new feature added
 
-added new
+new feature
 
 
